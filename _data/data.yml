@@ -107,25 +107,42 @@ experiences:
 certifications:
   title: Certifications
   list:
+  - name: Data Analytics for Beginners
+    start: 08/2024
+    end:
+    organization: Google
+    credentialid:
+    credentialurl:
+    credentialname: Google
+    details: ""
+
   - name: Google Cybersecurity Specialization
-    start: 2024
+    start: 01/2024
     end:
     organization: Coursera (Google)
     credentialid:
     credentialurl:
     credentialname: Coursera
-    details: |
-      Completed a specialization covering SOC analysis, threat detection, and incident response.
+    details: ""
 
-  - name: JavaScript & PHP
-    start: 2023
+  - name: JavaScript
+    start: 07/2023
     end:
     organization: SoloLearn
     credentialid:
     credentialurl:
     credentialname: SoloLearn
-    details: |
-      Online certification in fundamental and intermediate JS & PHP.
+    details: ""
+
+  - name: PHP Certificate
+    start: 06/2023
+    end:
+    organization: SoloLearn
+    credentialid:
+    credentialurl:
+    credentialname: SoloLearn
+    details: ""
+
 
 projects:
   title: Projects
