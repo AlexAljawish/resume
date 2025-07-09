@@ -158,10 +158,15 @@ recommendations:
       quote: |
         I had the pleasure of teaching Ahmad in my Mobile Programming course at Humber. He consistently demonstrated strong technical skills, a clear understanding of concepts, and a commitment to quality work.
 
-    - name: Dr. Lidia Barczyk
-      position: Assistant Professor – Faculty of Engineering
-      company: Ontario Tech University
-      quote: "Ahmad's creativity and problem-solving skills were evident throughout his coursework and project development. A valuable asset to any team."
+     - name: Ken Pu
+    position: Associate Professor – Computer Science
+    company: Ontario Tech University
+    quote: >
+      Ahmad was one of the most driven and insightful students in my Programming Languages course. 
+      He showed a solid grasp of both theoretical and practical aspects of multiple paradigms — 
+      from functional to logic-based languages — and consistently demonstrated thoughtful problem-solving 
+      and clean, well-structured code. A pleasure to teach.
+
 
 
 skills:
