@@ -71,31 +71,33 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Networking Technician
-    time: Jan 2024 – Apr 2024
-    company: Future-Tech-Systems-Inc
+  - role: Information Technology Help Desk
+    time: May 2024 – Aug 2024
+    company: The Toronto College of Dental Hygiene and Auxiliaries Inc, North York, ON
     details: |
-      - Installed and configured network equipment for small and medium businesses.
-      - Maintained system integrity and monitored for connectivity and latency issues.
+      - Provided technical support to students, faculty, and staff, resolving hardware, software, and network issues.
+      - Managed user accounts and permissions in Active Directory and maintained IT documentation.
+      - Installed, configured, and troubleshooted computer systems, applications, and connectivity problems.
+      - Monitored and resolved IT help desk tickets, ensuring timely issue resolution.
 
-  - role: Computer Repair Technician (Co-op)
-    time: 2023
-    company: Rama Computers
+  - role: Senior Networking Field Technician
+    time: Jun 2020 – Apr 2024
+    company: Future-Tech-Systems-Inc, Oakville, ON
     details: |
-      - Diagnosed hardware/software issues.
-      - Repaired laptops and desktops.
+      - Collaborated with Rogers Communications to resolve network issues and install Ethernet cables.
+      - Performed site surveys to design and implement efficient network layouts.
+      - Installed, configured, and maintained network hardware, including routers, switches, and firewalls.
+      - Worked with clients and vendors to integrate network solutions and documented configurations for future use.
 
-  - role: Sales Representative
-    time: 2022
-    company: Ledcor Technical Services
+  - role: IT Service Technician
+    time: Jan 2019 – Jun 2019
+    company: Rama Computers, Mississauga, ON
     details: |
-      - Engaged customers and upsold services.
+      - Diagnosed and resolved hardware and software issues, while installing and configuring operating systems, drivers, and essential applications.
+      - Performed routine maintenance and system upgrades, enhancing performance and ensuring security compliance.
+      - Delivered technical support and guidance to users, both in-person and remotely.
+      - Maintained comprehensive records of repairs, system updates, and customer interactions.
 
-  - role: Shift Kitchen Manager
-    time: 2020 – 2021
-    company: Paramount Fine Foods
-    details: |
-      - Managed staff scheduling and service quality.
 
 certifications:
   title: Certifications
