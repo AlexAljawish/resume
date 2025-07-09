@@ -61,12 +61,17 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Advanced Diploma in Computer Engineering Technology
-    university: Ontario Tech University
-    time: 2021 - 2024
+  - degree: Bachelors of Science in Computer Science
+    university: Ontario Tech University | Oshawa, ON
+    time: 09/2024 – 04/2026
+    details: ""
+
+  - degree: Honors in Computer Engineering Technology | Advanced Diploma
+    university: Humber Polytechnic Institute of Technology & Advanced Learning | Etobicoke, ON
+    time: 09/2019 – 04/2024
     details: |
-      - Graduated with Honours
-      - Courses: Systems Programming, Data Structures, Networking, Mobile Development
+      - *Humber Polytechnic* Dean’s Honour List for the Winter 2024 term, Fall 2023 term & Winter 2023 term
+
 
 experiences:
   title: Experiences
