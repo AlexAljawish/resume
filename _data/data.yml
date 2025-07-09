@@ -151,7 +151,18 @@ publications:
 
 recommendations:
   title: Recommendations
-  list: []
+  list:
+     - name: Haki Sharifi
+      position: Professor – Mobile Programming
+      company: Humber College
+      quote: |
+        I had the pleasure of teaching Ahmad in my Mobile Programming course at Humber. He consistently demonstrated strong technical skills, a clear understanding of concepts, and a commitment to quality work.
+
+    - name: Dr. Lidia Barczyk
+      position: Assistant Professor – Faculty of Engineering
+      company: Ontario Tech University
+      quote: "Ahmad's creativity and problem-solving skills were evident throughout his coursework and project development. A valuable asset to any team."
+
 
 skills:
   title: Skills & Proficiency
@@ -163,7 +174,7 @@ skills:
     level: 90%
 
   - name: Android & Firebase
-    level: 90%
+    level: 95%
 
   - name: HTML5 / CSS3 / Tailwind
     level: 90%
